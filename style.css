@@ -75,6 +75,7 @@ nav{
     border-radius: 50%;
     width: 120px;
     margin: 30px auto;
+    
 }
 @media only screen and (max-width: 768px) {
     .cont {
@@ -84,5 +85,19 @@ nav{
             margin: 50px auto 0;
             box-shadow: 0 0 10px 1px #31363c;
             border-radius: 12px 12px 0 0;
+        }
+        .study {
+            text-align: center;
+            color: #E2E2B6;
+            font-family: tahoma;
+            padding: 20px;
+        }
+    
+        .study img {
+            background: #E2E2B6;
+            border-radius: 50%;
+            width: 120px;
+            margin: 30px auto;
+    
         }
 }
